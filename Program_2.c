@@ -20,5 +20,6 @@ int main()
  }
 rev[beg]= '\0';
 printf("%s\n", rev);
+
 	return  0;
 }
